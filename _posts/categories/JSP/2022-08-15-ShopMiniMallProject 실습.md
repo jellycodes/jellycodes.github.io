@@ -1,6 +1,3 @@
-categories:
-- JAVA
-
 # ShopMiniMallProject 실습
 
 - src
