@@ -1,4 +1,5 @@
-# ShopMiniMallProject 실습
+categories:
+  - JSP
 
 - src
     - main
