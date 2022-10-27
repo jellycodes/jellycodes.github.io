@@ -2,7 +2,7 @@
 title: "JSP"
 categories:
   - JSP
-layout: categories
+layout: category
 permalink: /JSP
 author_profile: true
 sidebar_main: true
