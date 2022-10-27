@@ -1,11 +1,11 @@
 ---
-title: "알고리즘 문제"
+title: "JSP"
 layout: archive
-permalink: _posts/categories/Algorithm
+permalink: categories/JSP
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.Algorithm %}
+{% assign posts = site.categories.JSP %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
