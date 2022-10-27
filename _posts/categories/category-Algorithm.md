@@ -1,11 +1,12 @@
 ---
 title: "알고리즘 문제"
-layout: archive
-permalink: categories/Algorithm
-author_profile: true
-sidebar_main: true
 categories:
   - Algorithm
+layout: archive
+permalink: /Algorithm
+author_profile: true
+sidebar_main: true
+
 ---
 
 

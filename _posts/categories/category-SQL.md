@@ -1,11 +1,11 @@
 ---
 title: "SQL"
-layout: archive
-permalink: categories/SQL
-author_profile: true
-sidebar_main: true
 categories:
   - SQL
+layout: archive
+permalink: /SQL
+author_profile: true
+sidebar_main: true
 ---
 
 

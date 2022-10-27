@@ -1,11 +1,11 @@
 ---
 title: "JAVA 프로그래밍"
-layout: archive
-permalink: categories/JAVA
-author_profile: true
-sidebar_main: true
 categories:
   - JAVA
+layout: archive
+permalink: /JAVA
+author_profile: true
+sidebar_main: true
 ---
 
 

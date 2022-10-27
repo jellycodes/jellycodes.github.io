@@ -1,11 +1,11 @@
 ---
 title: "JSP"
-layout: archive
-permalink: categories/JSP
-author_profile: true
-sidebar_main: true
 categories:
   - JSP
+layout: archive
+permalink: /JSP
+author_profile: true
+sidebar_main: true
 ---
 
 
