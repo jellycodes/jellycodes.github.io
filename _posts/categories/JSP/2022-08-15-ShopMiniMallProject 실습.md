@@ -1,3 +1,6 @@
+categories:
+  - JSP
+
 - src
     - main
         - java

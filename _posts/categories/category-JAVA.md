@@ -2,7 +2,7 @@
 title: "JAVA 프로그래밍"
 categories:
   - JAVA
-layout: category
+layout: archive
 permalink: /JAVA
 author_profile: true
 sidebar_main: true

@@ -2,7 +2,7 @@
 title: "SQL"
 categories:
   - SQL
-layout: category
+layout: archive
 permalink: /SQL
 author_profile: true
 sidebar_main: true
