@@ -1,7 +1,7 @@
 ---
 title: "JAVA 프로그래밍"
 layout: archive
-permalink: categories/JAVA
+permalink: _posts/categories/JAVA
 author_profile: true
 sidebar_main: true
 ---

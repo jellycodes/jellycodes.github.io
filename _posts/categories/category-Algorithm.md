@@ -1,7 +1,7 @@
 ---
 title: "알고리즘 문제"
 layout: archive
-permalink: categories/Algorithm
+permalink: _posts/categories/Algorithm
 author_profile: true
 sidebar_main: true
 ---
