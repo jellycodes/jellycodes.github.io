@@ -3,7 +3,7 @@ title: "JSP"
 categories:
   - JSP
 layout: archive
-permalink: /JSP
+permalink: _posts/JSP
 author_profile: true
 sidebar_main: true
 ---

@@ -3,7 +3,7 @@ title: "알고리즘 문제"
 categories:
   - Algorithm
 layout: archive
-permalink: /Algorithm
+permalink: _posts/Algorithm
 author_profile: true
 sidebar_main: true
 

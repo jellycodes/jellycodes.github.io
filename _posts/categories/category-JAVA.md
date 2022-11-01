@@ -3,7 +3,7 @@ title: "JAVA 프로그래밍"
 categories:
   - JAVA
 layout: archive
-permalink: /JAVA
+permalink: _posts/JAVA
 author_profile: true
 sidebar_main: true
 ---

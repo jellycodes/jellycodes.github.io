@@ -3,7 +3,7 @@ title: "SQL"
 categories:
   - SQL
 layout: archive
-permalink: /SQL
+permalink: _posts/SQL
 author_profile: true
 sidebar_main: true
 ---
