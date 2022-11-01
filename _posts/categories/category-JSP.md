@@ -1,9 +1,7 @@
 ---
 title: "JSP"
-categories:
-  - JSP
 layout: archive
-permalink: _posts/JSP
+permalink: /JSP
 author_profile: true
 sidebar_main: true
 ---
