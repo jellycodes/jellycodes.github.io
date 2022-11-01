@@ -1,5 +1,5 @@
 ---
-title: "JSP"
+title: "jsp"
 layout: archive
 permalink: /jsp
 ---

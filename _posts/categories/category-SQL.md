@@ -1,5 +1,5 @@
 ---
-title: "SQL"
+title: "sql"
 layout: archive
 permalink: /sql
 ---

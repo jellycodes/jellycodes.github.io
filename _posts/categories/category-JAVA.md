@@ -1,5 +1,5 @@
 ---
-title: "JAVA"
+title: "자바"
 layout: archive
 permalink: /java
 ---
