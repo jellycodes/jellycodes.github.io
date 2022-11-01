@@ -1,11 +1,9 @@
 ---
 title: "JAVA"
 layout: archive
-permalink: /JAVA
-author_profile: true
-sidebar_main: true
+permalink: /java
 ---
 
 
-{% assign posts = site.categories.JAVA %}
+{% assign posts = site.categories.java %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

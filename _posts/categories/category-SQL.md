@@ -1,12 +1,9 @@
 ---
 title: "SQL"
-
 layout: archive
-permalink: /SQL
-author_profile: true
-sidebar_main: true
+permalink: /sql
 ---
 
 
-{% assign posts = site.categories.SQL %}
+{% assign posts = site.categories.sql %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

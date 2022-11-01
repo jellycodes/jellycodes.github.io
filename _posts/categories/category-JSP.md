@@ -1,11 +1,9 @@
 ---
 title: "JSP"
 layout: archive
-permalink: /JSP
-author_profile: true
-sidebar_main: true
+permalink: /jsp
 ---
 
 
-{% assign posts = site.categories.JSP %}
+{% assign posts = site.categories.jsp %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

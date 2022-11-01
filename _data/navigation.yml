@@ -2,13 +2,13 @@
 sidebar-category:
   - title: "JAVA/SQL/JSP"
     children:
-      - title: "JAVA"
-        url: "/JAVA"
+      - title: "자바"
+        url: "/java"
       - title: "SQL"
-        url: "/SQL"
+        url: "/sql"
       - title: "JSP"
-        url: "/JSP"
+        url: "/jsp"
   - title: "Coding Test"
     children:
-      - title: "Algorithm"
-        url: "/Algorithm"
+      - title: "알고리즘"
+        url: "/algorithm"
