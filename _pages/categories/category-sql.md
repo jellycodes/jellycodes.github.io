@@ -1,11 +1,11 @@
 ---
-title: "알고리즘"
+title: "SQL"
 layout: archive
-permalink: /categories/algorithm/
+permalink: categories/sql/
 author_profile: true
-taxonomy: 알고리즘
+taxonomy: SQL
 ---
 
 
-{% assign posts = site.categories.Algorithm %}
+{% assign posts = site.categories.Sql %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
