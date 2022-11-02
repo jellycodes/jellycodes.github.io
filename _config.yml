@@ -293,6 +293,6 @@ defaults:
       share: true
       related: true
       sidebar_main: true
-      # sidebar:
-      #   nav: "sidebar-category"
+      sidebar:
+        nav: "sidebar-category"
 
