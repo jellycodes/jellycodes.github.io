@@ -3,6 +3,7 @@ title: "SQL"
 layout: archive
 permalink: categories/sql/
 author_profile: true
+sidebar_main: true
 taxonomy: SQL
 ---
 
