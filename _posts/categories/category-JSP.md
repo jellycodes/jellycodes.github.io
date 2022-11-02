@@ -1,7 +1,9 @@
 ---
-title: "jsp"
+title: "JSP"
 layout: archive
-permalink: /jsp
+permalink: /categories/jsp/
+author_profile: true
+taxonomy: JSP
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-title: "sql"
+title: "SQL"
 layout: archive
-permalink: /sql
+permalink: /categories/sql/
+author_profile: true
+taxonomy: SQL
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 title: "자바"
 layout: archive
-permalink: /java
+permalink: /categories/java/
+author_profile: true
+taxonomy: 자바
 ---
 
 
