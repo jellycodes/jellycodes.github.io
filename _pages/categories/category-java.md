@@ -3,7 +3,8 @@ title: "자바"
 layout: archive
 permalink: categories/java/
 author_profile: true
-
+sidebar:
+        nav: "sidebar-category"
 taxonomy: 자바
 ---
 

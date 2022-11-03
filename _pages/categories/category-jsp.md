@@ -3,7 +3,8 @@ title: "JSP"
 layout: archive
 permalink: categories/jsp/
 author_profile: true
-
+sidebar:
+        nav: "sidebar-category"
 taxonomy: JSP
 ---
 
