@@ -3,8 +3,9 @@ title: "SQL"
 layout: archive
 permalink: categories/sql/
 author_profile: true
-sidebar:
-        nav: "sidebar-category"
+sidebar_main: true
+# sidebar:
+#         nav: "sidebar-category"
 taxonomy: SQL
 ---
 
