@@ -12,3 +12,4 @@ sidebar-category:
     children:
       - title: "Algorithm"
         url: categories/algorithm
+toc: true
