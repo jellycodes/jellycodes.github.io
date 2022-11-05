@@ -294,6 +294,8 @@ defaults:
       related: true
       sidebar_main: true
       toc: true
+      toc_sticky : true
+      toc_label : 젤리코드
       # sidebar:
       #   nav: "sidebar-category"
 
