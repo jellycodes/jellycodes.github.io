@@ -288,9 +288,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+      # read_time: true
+      show_date: true
+      comments: true
+      # share: true
       related: true
       sidebar_main: true
       toc: true
