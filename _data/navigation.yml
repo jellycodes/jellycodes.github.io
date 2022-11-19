@@ -12,3 +12,7 @@ sidebar-category:
     children:
       - title: "Algorithm"
         url: categories/algorithm
+  - title: "프로젝트"
+    children:
+      - title: "Project"
+        url: categories/project
