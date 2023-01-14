@@ -9,7 +9,7 @@ date: 2023-01-15
 ---
 - TDD , S X Q = R X T
 
-- 30년간 지속된 30가지 SW공학 이슈: 🔗http://dientra.egloos.com/m/5283534
+- 30년간 지속된 30가지 SW공학 이슈: http://dientra.egloos.com/m/5283534
 
 ```
 1. 초기 요구사항의 50% 이상이 완전하지 못하다.
@@ -44,15 +44,14 @@ date: 2023-01-15
 30. 프로그래머는 현재를 유지하기 위하여 연평균 약 10일의 교육이 필요하다.
 ```
 
-- 클린코드 관련 github : 🔗https://github.com/Yooii-Studios/Clean-Code
+- [클린코드 관련 github] https://github.com/Yooii-Studios/Clean-Code
 
-- 함께 일하고 싶은 개발자 : 🔗https://yozm.wishket.com/magazine/detail/1702/
+- 함께 일하고 싶은 개발자 : https://yozm.wishket.com/magazine/detail/1702/
 
-- 페어프로그래밍 회고 : 🔗https://pjh3749.tistory.com/247
+- 페어프로그래밍 회고 : https://pjh3749.tistory.com/247
 
 - Spring - Field vs Constructor vs Setter Injection \
- 그리고 순환참조(Circular Reference): \
-🔗https://coding-start.tistory.com/250
+ 그리고 순환참조(Circular Reference): https://coding-start.tistory.com/250
 
 - TDD
 
