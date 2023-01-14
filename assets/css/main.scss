@@ -5,5 +5,9 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "custom/customImport.scss";
+
+@import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes"; // main partials
+
+@import "custom/customOverride.scss";
