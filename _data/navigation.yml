@@ -16,3 +16,7 @@ sidebar-category:
     children:
       - title: "Project"
         url: categories/project
+  - title: "업무(240822~)"
+    children:
+      - title: "Work"
+        url: categories/work
