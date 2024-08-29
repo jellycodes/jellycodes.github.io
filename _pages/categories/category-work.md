@@ -1,7 +1,7 @@
 ---
 title: "Work"
 layout: archive
-permalink: categories/Work/
+permalink: categories/work/
 author_profile: true
 sidebar_main: true
 # sidebar:
